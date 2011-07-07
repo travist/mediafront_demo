@@ -9,10 +9,7 @@ Here is how to install the MediaFront as shown in the presentation:
 
  - Walk though the installer.
 
- - Import the mediafront-before.sql file.
-
- - Admin User
-	- username : admin
-	- password : password
+ - In terminal type the following.
+	- crush pm-enable ctools features media_feature media media_internet media_vimeo media_youtube mediafront osmplayer backup_migrate file_styles styles styles_ui views views_ui
 
 
