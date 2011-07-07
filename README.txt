@@ -11,4 +11,8 @@ Here is how to install the MediaFront as shown in the presentation:
 
  - Import the mediafront-before.sql file.
 
+ - Admin User
+	- username : admin
+	- password : password
+
 
