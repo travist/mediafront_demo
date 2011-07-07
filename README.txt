@@ -7,9 +7,8 @@ Here is how to install the MediaFront as shown in the presentation:
  - In terminal type the following.
 	- drush make mediafront.make
 
- - Walk through the drupal installer.
+ - Walk though the installer.
 
- - Now type the following within the webroot to install the modules.
-	- drush pm-enable ctools media media_internet media_vimeo media_youtube mediafront osmplayer file_styles styles styles_ui views views_ui features -y
+ - Import the mediafront-before.sql file.
 
 
