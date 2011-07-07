@@ -3,6 +3,7 @@ api = 2
 projects[] = drupal
 projects[ctools] = 1.0-beta1
 projects[features] = 1.0-beta3
+projects[strongarm] = 2.0-beta2
 projects[views] = 3.0-rc1	
 projects[mediafront] = 1.0
 projects[media] = 1.0-beta5

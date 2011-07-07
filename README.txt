@@ -10,6 +10,6 @@ Here is how to install the MediaFront as shown in the presentation:
  - Walk though the installer.
 
  - In terminal type the following.
-	- drush pm-enable ctools features media_feature media media_internet media_vimeo media_youtube mediafront osmplayer backup_migrate file_styles styles styles_ui views views_ui
+	- drush pm-enable ctools features strongarm media_feature media media_internet media_vimeo media_youtube mediafront osmplayer backup_migrate file_styles styles styles_ui views views_ui
 
 
