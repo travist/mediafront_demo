@@ -22,6 +22,12 @@ projects[media][download][type] = "git"
 projects[media][download][url] = "git@github.com:travist/media_module.git"
 projects[media][download][branch] = "7.x-2.x"
 
+; File Entity module snapshot 7.x-1.x development version.
+projects[file_entity][type] = "module"
+projects[file_entity][download][type] = "git"
+projects[file_entity][download][url] = "git@github.com:travist/file_entity_module.git"
+projects[file_entity][download][branch] = "7.x-1.x"
+
 ; Media feature module snapshot 7.x-1.x
 projects[media_feature][type] = "module"
 projects[media_feature][download][type] = "git"
