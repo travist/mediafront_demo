@@ -11,6 +11,7 @@ projects[media] = 1.0-beta5
 projects[media_browser_plus] = 1.0-beta3
 projects[media_youtube] = 1.0-alpha5
 projects[media_vimeo] = 1.0-beta3
+projects[html5_media] = 1.x-dev
 
 ; Media feature module snapshot 7.x-1.x-media
 projects[media_feature][type] = "module"
