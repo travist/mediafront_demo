@@ -15,6 +15,8 @@ Here is how to install the MediaFront as shown in the presentation:
 
  4.) In terminal type the following.
 	- drush en media_feature
+        - drush cc all
+        - crush fr media_feature
 
  5.) And, if you would like to enable the test content…
 	- drush en media_content
