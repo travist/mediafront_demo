@@ -13,8 +13,8 @@ projects[media_youtube] = 1.0-beta3
 projects[media_vimeo] = 1.0-beta5
 projects[html5_media] = 1.x-dev
 
-; Media feature module snapshot 7.x-1.x-media
+; Media feature module snapshot 7.x-2.x-media
 projects[media_feature][type] = "module"
 projects[media_feature][download][type] = "git"
 projects[media_feature][download][url] = "git://github.com/travist/media_feature.git"
-projects[media_feature][download][branch] = "7.x-1.x-media"
+projects[media_feature][download][branch] = "7.x-2.x-media"
