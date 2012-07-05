@@ -9,7 +9,7 @@ Here is how to install the MediaFront as shown in the presentation:
 		- drush make mediafront.make
 
  	b) If you would like to install with MediaFront already setup, type the following in the terminal.
-		- druah make mediafront_complete.make
+		- drush make mediafront_complete.make
 
  3.) Walk though the installer.
 
