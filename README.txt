@@ -18,9 +18,9 @@ Here is how to install the MediaFront as shown in the presentation:
 
  3.) Walk though the installer.
 
- 4.) In terminal type the following.
+ 4.) In terminal type the following. If the first command errors, then run it again.
  
-	- drush en media_feature (if it errors, then run twice)
+	- drush en media_feature
         - drush cc all
         - drush fr media_feature
 
