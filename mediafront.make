@@ -1,10 +1,10 @@
 core = 7.x
 api = 2
 projects[] = drupal
-projects[ctools] = 1.0
-projects[features] = 1.0-rc3
+projects[ctools] = 1.2
+projects[features] = 1.0
 projects[strongarm] = 2.0
-projects[views] = 3.3
+projects[views] = 3.5
 projects[styles] = 1.0-alpha4
 projects[mediafront] = 2.x-dev
 projects[media] = 1.2
